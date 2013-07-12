@@ -223,7 +223,7 @@
 				"Set Syntax: R Console"
 			]
 		],
-		"width": 449.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -243,6 +243,9 @@
 	},
 	"file_history":
 	[
+		"/Users/tmb/msm/msm_dash/dashboards/sample.erb",
+		"/Users/tmb/msm/msm_dash/jobs/convergence.rb",
+		"/Users/tmb/msm/msm_dash/jobs/facebooklinkstats.rb",
 		"/Users/tmb/msm/food-pantry-manager/app/assets/javascripts/volunteers.js.coffee",
 		"/Users/tmb/msm/food-pantry-manager/app/views/visits/index.html.haml",
 		"/Users/tmb/msm/food-pantry-manager/app/views/visits/show.html.haml",
@@ -438,6 +441,10 @@
 		"height": 100.0
 	},
 	"output.git-fetch":
+	{
+		"height": 100.0
+	},
+	"output.git-init":
 	{
 		"height": 100.0
 	},
