@@ -83,6 +83,41 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": " url: mom.dev/dashboard\n username: dashboard\n password: secret_key",
+			"file": "config/msm.yml",
+			"file_size": 69,
+			"file_write_time": 130180743600000000,
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/client.rb",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/configuration.rb",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -223,7 +258,7 @@
 				"Set Syntax: R Console"
 			]
 		],
-		"width": 530.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -243,6 +278,8 @@
 	},
 	"file_history":
 	[
+		"/Users/tmb/msm/msm_dash/config/msm.yml",
+		"/Users/tmb/msm/msm_dash/config/deploy/ct.rb",
 		"/Users/tmb/msm/msm_dash/dashboards/sample.erb",
 		"/Users/tmb/msm/msm_dash/jobs/convergence.rb",
 		"/Users/tmb/msm/msm_dash/jobs/facebooklinkstats.rb",
@@ -392,8 +429,119 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "config/msm.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/client.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/configuration.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -539,6 +687,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"~/msm/msm_dash/msm_dash.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
