@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"params"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"H",
+				"Household"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"your",
+				"your-road"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fami",
+				"family_member"
+			],
+			[
+				"fa",
+				"family_member"
+			],
+			[
+				"re",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"gq",
+				"Git: Quick Commit"
+			],
+			[
+				"g",
+				"Git: Show"
+			],
+			[
+				"sublimeg",
+				"SublimeGit: Install License"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gau",
+				"SublimeREPL: Gauche"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"fii",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"supe",
+				"Set Syntax: SuperCollider"
+			],
+			[
+				"super",
+				"Set Syntax: Supercollider Help"
+			],
+			[
+				"ap",
+				"ApiDock Ruby: Search Selection"
+			],
+			[
+				"ruby",
+				"Format: Ruby"
+			],
+			[
+				"R",
+				"Format: Ruby"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"min",
+				"Build: Lein: Documentation"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Lein: Documentation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tmb/msm/food-pantry-manager/app/assets/javascripts/volunteers.js.coffee",
+		"/Users/tmb/msm/food-pantry-manager/app/views/visits/index.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/visits/show.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/controllers/households_controller.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/layouts/_footer.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/assets/javascripts/household.js",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/_print.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/neighbors/_form.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/_visit_fields.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/volunteers/_form.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/volunteers/_volunteer.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/db/schema.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/pdfs/visit_pdf.rb",
+		"/Users/tmb/msm/food-pantry-manager/config/initializers/mime_types.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/controllers/visits_controller.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/_form.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/models/visit.rb",
+		"/Users/tmb/msm/food-pantry-manager/Gemfile",
+		"/Users/tmb/msm/food-pantry-manager/app/serializers/neighbor_serializer.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/controllers/neighbors_controller.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/pdfs/household_pdf.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/donations/_form.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/serializers/visit_serializer.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/serializers/household_serializer.rb",
+		"/Users/tmb/msm/food-pantry-manager/config/routes.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/visits/_form.html.haml",
+		"/Users/tmb/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/Users/tmb/msm/food-pantry-manager/app/views/visits/harvest.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/_newhouse.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/spec/models/household_spec.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/index.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/assets/stylesheets/application.css.scss",
+		"/Users/tmb/Library/Application Support/Sublime Text 3/Packages/SublimeGit/Default (OSX).sublime-keymap",
+		"/Users/tmb/msm/food-pantry-manager/food-pantry.sublime-project",
+		"/Users/tmb/msm/food-pantry-manager/app/controllers/donations_controller.rb",
+		"/Users/tmb/msm/food-pantry-manager/app/views/visits/new.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/neighbors/visit_form.html.haml",
+		"/Users/tmb/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/_visit_form.html.haml",
+		"/Users/tmb/msm/food-pantry-manager/app/views/households/new.html.haml",
+		"/Users/tmb/.floobits/share/msgs.floobits.log",
+		"/Users/tmb/msm/wagn/db/migrate_cards/data/1.11_help_text.json",
+		"/Users/tmb/Downloads/jquery.datetimeentry.package-1.1.1/datetimeEntryBasic.html",
+		"/Users/tmb/bees/activator-0.1.1/activator.bat",
+		"/Users/tmb/lang/scala/mongres/app/controllers/Application.scala",
+		"/Users/tmb/msm/food-pantry-manager/tmp/data/meta_request/3d261f9cb94bb86f633e0f0bc6f29cc9.json",
+		"/Users/tmb/Downloads/for TMB/OPEN ME FIRST.htm",
+		"/Users/tmb/web/brookesons/blog/2013-01-04-lets-learn-oauth2-clio-part-1.md",
+		"/Users/tmb/lang/clojure/clojure-koans/src/koans/05_maps.clj",
+		"/Users/tmb/lang/clojure/clojure-koans/src/koans/07_conditionals.clj",
+		"/Users/tmb/lang/clojure/clojure-koans/src/koans/06_functions.clj",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tmb/lang/clojure/clojure-koans/src/koans/04_sets.clj",
+		"/Users/tmb/web/brookesons/stylesheets/text.scss",
+		"/Users/tmb/web/brookesons/stylesheets/site.scss",
+		"/Users/tmb/web/brookesons/blog/2012-12-05-clojure-day.md",
+		"/Users/tmb/web/brookesons/blog/2012-12-16-Twin-Maps-Revisited.md",
+		"/Users/tmb/web/brookesons/index.html.haml",
+		"/Users/tmb/web/brookesons/_ext/pipeline.rb",
+		"/Users/tmb/web/brookesons/stylesheets/screen.scss",
+		"/Users/tmb/web/brookesons/_layouts/base.html.haml",
+		"/Users/tmb/web/brookesons/blog/2012-11-07-main-street-on-rails.md",
+		"/Users/tmb/web/brookesons/blog/2012-12-16-Twin-Maps-Revisited",
+		"/Users/tmb/web/brookesons/blog/11-07-2012-History-of-main-street-mission.md",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/lispindent/lispindent.sublime-settings",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Default (OSX).sublime-keymap",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/tmb/web/brookesons/_config/site.yml",
+		"/Users/tmb/web/brookesons/_layouts/blog.html.haml",
+		"/Users/tmb/lang/clojure/mendicantuniversity.org/_posts/updates/2012-12-05-clojure-day.md",
+		"/Users/tmb/web/brookesons/_layouts/repl-port",
+		"/Users/tmb/web/brookesons/blog/2012-12-11-Monday-Morning.md",
+		"/Users/tmb/web/brookesons/stylesheets/partials/_base.scss",
+		"/Users/tmb/web/brookesons/_bin/import",
+		"/Users/tmb/web/brookesons/blog/2012-12-08-happy-birthday",
+		"/Users/tmb/web/brookesons/_site/index.html",
+		"/Users/tmb/web/brookesons/blog/assets",
+		"/Users/tmb/web/brookesons/blog/assets/",
+		"/Users/tmb/web/bob.mcwhirter.org/_site/index.html",
+		"/Users/tmb/web/brookesons/.gitignore",
+		"/Users/tmb/web/brookesons/.awestruct_ignore",
+		"/Users/tmb/web/brookesons/layouts/blog.html.haml",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tmb/web/brookesons/index.html",
+		"/Users/tmb/.zshrc",
+		"/Users/tmb/web/msm/food-pantry-manager/db/migrate/20121128131359_rename_neighbors.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/app/controllers/neighbors_controller.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/app/models/person.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/db/migrate/20121130183435_rename_roles_to_relationships.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/app/models/neighbor.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/.gitignore",
+		"/Users/tmb/lang/clojure/resty/.gitignore",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/User/Leiningen.sublime-build",
+		"/Users/tmb/lang/clojure/resty/project.clj",
+		"/Users/tmb/lang/clojure/resty/README.md",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/tmb/lang/clojure/resty/src/resty/handler.clj",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tmb/web/msm/food-pantry-manager/spec/models/neighbor_spec.rb",
+		"/Users/tmb/web/msm/food-pantry-manager/features/step_definitions/neighbor_steps.rb",
+		"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tmb/lang/clojure/misc/robotics.clj",
+		"/Users/tmb/lang/clojure/misc/test.clj",
+		"/Users/tmb/lang/clojure/one/project.clj",
+		"/Users/tmb/lang/clojure/one/src/lib/cljs/one/logging.cljs",
+		"/Users/tmb/lang/clojure/one/src/app/clj/one/sample/api.clj"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"      ",
+			"bolg.html.haml",
+			"family_member",
+			"def",
+			"robotics"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-fetch":
+	{
+		"height": 100.0
+	},
+	"output.sbt":
+	{
+		"height": 0.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"output.tests":
+	{
+		"height": 100.0
+	},
+	"project": "msm_dash.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"07",
+				"src/koans/07_conditionals.clj"
+			],
+			[
+				"06",
+				"src/koans/06_functions.clj"
+			],
+			[
+				"",
+				"/Users/tmb/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings"
+			],
+			[
+				"ba",
+				"_layouts/base.html.haml"
+			],
+			[
+				"ne",
+				"app/models/neighbor.rb"
+			],
+			[
+				"neighs",
+				"spec/models/neighbor_spec.rb"
+			],
+			[
+				"n",
+				"app/models/neighbor.rb"
+			],
+			[
+				"nei",
+				"spec/models/neighbor_spec.rb"
+			],
+			[
+				"ren",
+				"db/migrate/20121128131359_rename_neighbors.rb"
+			],
+			[
+				"roles_to_r",
+				"db/migrate/20121130183435_rename_roles_to_relationships.rb"
+			],
+			[
+				"sr",
+				"src/resty/handler.clj"
+			],
+			[
+				"r",
+				"README.md"
+			],
+			[
+				"neighbspe",
+				"spec/models/neighbor_spec.rb"
+			],
+			[
+				"neis",
+				"features/step_definitions/neighbor_steps.rb"
+			],
+			[
+				"l",
+				"src/lib/cljs/one/logging.cljs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
