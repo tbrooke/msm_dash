@@ -1,26 +1,26 @@
 ---
-buzzwords: ! 'data: {"items":[{"label":"Exit strategy","value":22},{"label":"Web 2.0","value":20},{"label":"Synergy","value":12},{"label":"Pivoting","value":6},{"label":"Enterprise","value":22},{"label":"Paradigm
-  shift","value":5},{"label":"Turn-key","value":19},{"label":"Leverage","value":25},{"label":"Streamlininess","value":1}],"id":"buzzwords","updatedAt":1373599059}
+buzzwords: ! 'data: {"items":[{"label":"Turn-key","value":17},{"label":"Web 2.0","value":26},{"label":"Leverage","value":20},{"label":"Synergy","value":26},{"label":"Paradigm
+  shift","value":28},{"label":"Streamlininess","value":3},{"label":"Exit strategy","value":19},{"label":"Enterprise","value":10},{"label":"Pivoting","value":17}],"id":"buzzwords","updatedAt":1373727648}
 
 
 '
-convergence: ! 'data: {"points":[{"x":493,"y":24},{"x":494,"y":15},{"x":495,"y":17},{"x":496,"y":39},{"x":497,"y":27},{"x":498,"y":23},{"x":499,"y":28},{"x":500,"y":32},{"x":501,"y":2},{"x":502,"y":43}],"id":"convergence","updatedAt":1373599059}
+convergence: ! 'data: {"points":[{"x":26357,"y":49},{"x":26358,"y":48},{"x":26359,"y":29},{"x":26360,"y":44},{"x":26361,"y":11},{"x":26362,"y":31},{"x":26363,"y":15},{"x":26364,"y":20},{"x":26365,"y":24},{"x":26366,"y":32}],"id":"convergence","updatedAt":1373727648}
 
 
 '
-valuation: ! 'data: {"current":35,"last":76,"id":"valuation","updatedAt":1373599059}
+valuation: ! 'data: {"current":63,"last":3,"id":"valuation","updatedAt":1373727648}
 
 
 '
-karma: ! 'data: {"current":165645,"last":32693,"id":"karma","updatedAt":1373599059}
+karma: ! 'data: {"current":120346,"last":46401,"id":"karma","updatedAt":1373727648}
 
 
 '
-synergy: ! 'data: {"value":2,"id":"synergy","updatedAt":1373599059}
+synergy: ! 'data: {"value":4,"id":"synergy","updatedAt":1373727648}
 
 
 '
-fblinkstat: ! 'data: {"items":[{"label":"share_count","value":13},{"label":"like_count","value":8},{"label":"comment_count","value":1},{"label":"total_count","value":22}],"id":"fblinkstat","updatedAt":1373599036}
+fblinkstat: ! 'data: {"items":[{"label":"share_count","value":13},{"label":"like_count","value":8},{"label":"comment_count","value":1},{"label":"total_count","value":22}],"id":"fblinkstat","updatedAt":1373727616}
 
 
 '
