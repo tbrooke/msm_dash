@@ -1,27 +1,29 @@
 require 'httparty'
-require_relative './configuration'
 
-module Momma
   class Client
     include HTTParty
-    base_uri    Momma::CONFIGURATION['url']
-    digest_auth Momma::CONFIGURATION['username'],
-                Momma::CONFIGURATION['password']
+    base_uri = 'localhost:3000'
+    
 
-    def self.patients
-      get('/patients.json').parsed_response
+    def self.household
+      get('/households.json').parsed_response
     end
 
     def self.summary
       get("/summary.json").parsed_response
     end
 
-    def self.support
-      get("/support.json").parsed_response
+    def self.visit
+      get("/visits.json").parsed_response
     end
 
-    def self.treatment_areas
-      get("/treatment_areas.json").parsed_response
+    def self.donor
+      get("/donors.json").parsed_response
     end
+
+    def self.volunteer
+      get("/volunteers.json").parsed_response
+    end
+
+
   end
-end

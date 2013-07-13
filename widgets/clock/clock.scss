@@ -1,13 +1,20 @@
 // ----------------------------------------------------------------------------
 // Sass declarations
 // ----------------------------------------------------------------------------
-$background-color:  #dc5945;
+$background-color:  #ec663c;
 
 // ----------------------------------------------------------------------------
 // Widget-clock styles
 // ----------------------------------------------------------------------------
 .widget-clock {
 
-  background-color: $background-color;
+  background-image: url('onecan.png');
+  background-size: 100%;
+  background-repeat:no-repeat;
+  background-color: red;
 
+}
+
+#date {
+	margin-top: 200px;
 }
