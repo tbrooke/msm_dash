@@ -1,9 +1,10 @@
 require 'httparty'
 
+module Msm
   class Client
     include HTTParty
     base_uri = 'localhost:3000'
-    
+
 
     def self.household
       get('/households.json').parsed_response
@@ -27,3 +28,4 @@ require 'httparty'
 
 
   end
+end
