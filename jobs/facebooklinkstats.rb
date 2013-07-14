@@ -9,7 +9,7 @@ SCHEDULER.every '1m' do
   fbstat = []
 
   http = Net::HTTP.new('graph.facebook.com')
-  response = http.request(Net::HTTP::Get.new("/fql?q=SELECT%20share_count,%20like_count,%20comment_count,%20total_count%20FROM%20link_stat%20WHERE%20url=%22#{sharedlink}%22"))
+  response = http.request(Net::HTTP::Get.new("/fql?q=SELECT,%20share_count,%20like_count,%20comment_count,%20total_count%20FROM%20link_stat%20WHERE%20url=%22#{sharedlink}%22"))
   fbcounts = JSON.parse(response.body)['data']
 
   fbcounts[0].each do |stat|
@@ -19,3 +19,5 @@ SCHEDULER.every '1m' do
    send_event('fblinkstat', { items: fbstat })
 
 end
+
+
