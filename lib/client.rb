@@ -10,9 +10,13 @@ module Msm
       get('#{base_url}/households.json').parsed_response
     end
 
-    def self.summary
-      get("/summary.json").parsed_response
+    def self.household_summary
+      '#{base_url}/dashboard.household_summary'
     end
+
+    # def self.summary
+    #   get("/summary.json").parsed_response
+    # end
 
     def self.visit
       get("/visits.json").parsed_response
