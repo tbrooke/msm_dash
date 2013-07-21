@@ -1,23 +1,22 @@
 ---
-buzzwords: ! 'data: {"items":[{"label":"Paradigm shift","value":26},{"label":"Exit
-  strategy","value":6},{"label":"Pivoting","value":15},{"label":"Synergy","value":2},{"label":"Enterprise","value":22},{"label":"Leverage","value":8},{"label":"Streamlininess","value":18},{"label":"Web
-  2.0","value":13},{"label":"Turn-key","value":25}],"id":"buzzwords","updatedAt":1373837355}
+buzzwords: ! 'data: {"items":[{"label":"Paradigm shift","value":19},{"label":"Enterprise","value":28},{"label":"Leverage","value":13},{"label":"Web
+  2.0","value":6},{"label":"Exit strategy","value":5},{"label":"Pivoting","value":19},{"label":"Turn-key","value":17},{"label":"Synergy","value":22},{"label":"Streamlininess","value":5}],"id":"buzzwords","updatedAt":1373928834}
 
 
 '
-convergence: ! 'data: {"points":[{"x":1966,"y":36},{"x":1967,"y":30},{"x":1968,"y":21},{"x":1969,"y":45},{"x":1970,"y":6},{"x":1971,"y":10},{"x":1972,"y":25},{"x":1973,"y":12},{"x":1974,"y":47},{"x":1975,"y":15}],"id":"convergence","updatedAt":1373837355}
+convergence: ! 'data: {"points":[{"x":45375,"y":0},{"x":45376,"y":9},{"x":45377,"y":30},{"x":45378,"y":38},{"x":45379,"y":37},{"x":45380,"y":31},{"x":45381,"y":20},{"x":45382,"y":33},{"x":45383,"y":8},{"x":45384,"y":23}],"id":"convergence","updatedAt":1373928834}
 
 
 '
-valuation: ! 'data: {"current":77,"last":10,"id":"valuation","updatedAt":1373837355}
+valuation: ! 'data: {"current":67,"last":41,"id":"valuation","updatedAt":1373928834}
 
 
 '
-karma: ! 'data: {"current":75992,"last":60364,"id":"karma","updatedAt":1373837355}
+karma: ! 'data: {"current":15461,"last":73674,"id":"karma","updatedAt":1373928834}
 
 
 '
-synergy: ! 'data: {"value":84,"id":"synergy","updatedAt":1373837355}
+synergy: ! 'data: {"value":17,"id":"synergy","updatedAt":1373928834}
 
 
 '
@@ -25,19 +24,19 @@ fblinkstat: ! 'data: {"items":[{"label":"share_count","value":13},{"label":"like
 
 
 '
-facebook_likes: ! 'data: {"current":507,"id":"facebook_likes","updatedAt":1373837325}
+facebook_likes: ! 'data: {"current":507,"id":"facebook_likes","updatedAt":1373928806}
 
 
 '
-facebook_checkins: ! 'data: {"current":2,"id":"facebook_checkins","updatedAt":1373837325}
+facebook_checkins: ! 'data: {"current":2,"id":"facebook_checkins","updatedAt":1373928806}
 
 
 '
-facebook_were_here_count: ! 'data: {"current":62,"id":"facebook_were_here_count","updatedAt":1373837325}
+facebook_were_here_count: ! 'data: {"current":62,"id":"facebook_were_here_count","updatedAt":1373928806}
 
 
 '
-facebook_talking_about_count: ! 'data: {"current":34,"id":"facebook_talking_about_count","updatedAt":1373837325}
+facebook_talking_about_count: ! 'data: {"current":34,"id":"facebook_talking_about_count","updatedAt":1373928806}
 
 
 '

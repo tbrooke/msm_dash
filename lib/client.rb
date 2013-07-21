@@ -6,8 +6,8 @@ module Msm
     base_uri = 'localhost:3000'
 
 
-    def self.household
-      get('/households.json').parsed_response
+    def self.households
+      get('#{base_url}/households.json').parsed_response
     end
 
     def self.summary
