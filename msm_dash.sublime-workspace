@@ -84,38 +84,21 @@
 	"buffers":
 	[
 		{
-			"contents": " url: mom.dev/dashboard\n username: dashboard\n password: secret_key",
-			"file": "config/msm.yml",
-			"file_size": 69,
-			"file_write_time": 130180743600000000,
+			"file": "/Users/tmb/node/clio/package.json",
 			"settings":
 			{
-				"buffer_size": 66,
-				"line_ending": "Unix"
+				"buffer_size": 148,
+				"line_ending": "Unix",
+				"name": "{"
 			}
 		},
 		{
-			"file": "lib/client.rb",
+			"file": "/Users/tmb/node/clio/server.js",
 			"settings":
 			{
-				"buffer_size": 567,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 318,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/configuration.rb",
-			"settings":
-			{
-				"buffer_size": 152,
-				"line_ending": "Unix"
+				"buffer_size": 891,
+				"line_ending": "Unix",
+				"name": "var express = require('express');"
 			}
 		}
 	],
@@ -258,7 +241,7 @@
 				"Set Syntax: R Console"
 			]
 		],
-		"width": 449.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -278,9 +261,16 @@
 	},
 	"file_history":
 	[
-		"/Users/tmb/msm/msm_dash/config/msm.yml",
-		"/Users/tmb/msm/msm_dash/config/deploy/ct.rb",
+		"/Users/tmb/msm/msm_dash/jobs/sample.rb",
+		"/Users/tmb/msm/msm_dash/Gemfile",
+		"/Users/tmb/msm/msm_dash/widgets/clock/clock.scss",
 		"/Users/tmb/msm/msm_dash/dashboards/sample.erb",
+		"/Users/tmb/msm/msm_dash/lib/client.rb",
+		"/Users/tmb/msm/msm_dash/jobs/households.rb",
+		"/Users/tmb/msm/msm_dash/config/msm.yml",
+		"/Users/tmb/msm/msm_dash/lib/configuration.rb",
+		"/Users/tmb/msm/msm_dash/jobs/patients.rb",
+		"/Users/tmb/msm/msm_dash/config/deploy/ct.rb",
 		"/Users/tmb/msm/msm_dash/jobs/convergence.rb",
 		"/Users/tmb/msm/msm_dash/jobs/facebooklinkstats.rb",
 		"/Users/tmb/msm/food-pantry-manager/app/assets/javascripts/volunteers.js.coffee",
@@ -429,29 +419,30 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "config/msm.yml",
+					"file": "/Users/tmb/node/clio/package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 66,
+						"buffer_size": 148,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								24,
-								24
+								121,
+								121
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -461,11 +452,11 @@
 				},
 				{
 					"buffer": 1,
-					"file": "lib/client.rb",
+					"file": "/Users/tmb/node/clio/server.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 567,
+						"buffer_size": 891,
 						"regions":
 						{
 						},
@@ -478,63 +469,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Gemfile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "lib/configuration.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								148,
-								148
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"auto_name": "var express = require('express');",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -708,7 +644,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 247.0,
 	"status_bar_visible": true,
 	"template_settings":
