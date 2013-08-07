@@ -6,7 +6,7 @@ require 'bundler/capistrano'
 
 set :application, "dashboard"
 
-set :repository, "git@github.com:tbrooke/msm_dash.git:"
+set :repository, "git@github.com:tbrooke/msm_dash.git"
 set :deploy_via, :remote_cache
 
 set :scm, :git
